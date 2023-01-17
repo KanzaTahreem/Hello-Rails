@@ -25,10 +25,6 @@
 # 📖 Hello World <a name="about-the-project"></a>
 Practicing Ruby on Rails by creating our very own Rails 'Hello World!' project!
 
-- Add new students or teachers.
-- Add new books.
-- Save records of who borrowed a given book and when.
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -59,7 +55,6 @@ Practicing Ruby on Rails by creating our very own Rails 'Hello World!' project!
 ### Key Features <a name="key-features"></a>
 
 - Use RubyGems as a software package system.
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
